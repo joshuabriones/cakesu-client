@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "123456",
+      "role": "customer",
+      "loyaltyPoints": 120,
+      "savedAddresses": ["123 Main St, Springfield", "456 Elm St, Shelbyville"]
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@gmail.com",
+      "password": "abcdef",
+      "role": "customer",
+      "loyaltyPoints": 200,
+      "savedAddresses": ["789 Oak St, Capital City"]
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@gmail.com",
+      "password": "qwerty",
+      "role": "customer",
+      "loyaltyPoints": 150,
+      "savedAddresses": ["321 Pine St, Ogdenville"]
+    },
+    {
+      "name": "Bob Brown",
+      "email": "bobbrown@gmail.com",
+      "password": "zxcvbn",
+      "role": "seller",
+      "shopName": "Bob's Bakery",
+      "shopAddress": "123 Baker St, Springfield"
+    },
+    {
+      "name": "Emily White",
+      "email": "emilywhite@gmail.com",
+      "password": "pass123",
+      "role": "seller",
+      "shopName": "Emily's Cakes",
+      "shopAddress": "456 Cake Ave, Shelbyville"
+    }
+  ]
+}

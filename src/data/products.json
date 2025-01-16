@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic Chocolate Cake",
+      "description": "A rich and moist chocolate cake with a smooth chocolate ganache.",
+      "price": 25.99,
+      "category": "Birthday Cakes",
+      "customizationOptions": ["Size", "Message", "Frosting Type"]
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Dream Cake",
+      "description": "A light and fluffy vanilla cake with a creamy vanilla buttercream frosting.",
+      "price": 22.99,
+      "category": "Wedding Cakes",
+      "customizationOptions": ["Size", "Message", "Frosting Type"]
+    },
+    {
+      "id": 3,
+      "name": "Red Velvet Cake",
+      "description": "A classic red velvet cake with a tangy cream cheese frosting.",
+      "price": 27.99,
+      "category": "Special Occasion Cakes",
+      "customizationOptions": ["Size", "Message", "Frosting Type"]
+    },
+    {
+      "id": 4,
+      "name": "Lemon Drizzle Cake",
+      "description": "A zesty lemon cake with a sweet and tangy lemon drizzle.",
+      "price": 20.99,
+      "category": "Vegan Options",
+      "customizationOptions": ["Size", "Message", "Frosting Type"]
+    },
+    {
+      "id": 5,
+      "name": "Carrot Cake",
+      "description": "A moist carrot cake with a rich cream cheese frosting and a hint of cinnamon.",
+      "price": 24.99,
+      "category": "Birthday Cakes",
+      "customizationOptions": ["Size", "Message", "Frosting Type"]
+    }
+  ]
+}
